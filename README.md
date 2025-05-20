@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NthabisengIrene1983
+- 👋 Hi, I’m Puleng Veronica
 - 👀 I’m interested in App Development 
 - 🌱 I’m currently learning App development at FNB App Academy 
 - 💞️ I’m looking to collaborate on ...
